@@ -37,11 +37,3 @@ The dataset includes:
 - **Decision Tree Regressor**: Modeling complex relationships in the data.
 - **Random Forest Regressor**: An ensemble method for improved prediction accuracy.
 
-## 📋 Installation
-
-To get started, clone the repository and install the required packages:
-
-```bash
-git clone https://github.com/yourusername/f1-racing-dataset.git
-cd f1-racing-dataset
-pip install -r requirements.txt
