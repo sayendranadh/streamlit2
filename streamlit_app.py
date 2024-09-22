@@ -10,7 +10,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error
 # Set the Streamlit app title
 st.title("Formula 1 Data Analysis")
-
+st.subheader("Press the side arrow to attach files for visualization")
 # Create a sidebar for options
 st.sidebar.title("Select a Visualization")
 options = st.sidebar.selectbox("Choose the analysis", 
